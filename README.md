@@ -17,10 +17,10 @@ Un alt obiectiv al aplicației este de a oferi o experiență intuitivă și pl�
 ![Pagina de profil](poze/ProfileAct.png)
 
 ### Informații exercițiu
-![Pagina de informații](poze/ExerciseAct.png)
+![Pagina de informații](poze/ExercisesAct.png)
 
 ## Diagrama UML
-![Diagrama UML a aplicației]{poze/ClassDiagram.jpg}
+![Diagrama UML a aplicației](poze/ClassDiagram.jpg)
 
 ##Diagrama UseCase
-![Diagrama UseCase]{poze/UseCase.jpg}
+![Diagrama UseCase](poze/UseCase.jpg)
