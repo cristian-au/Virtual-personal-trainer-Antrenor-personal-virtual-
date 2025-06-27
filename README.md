@@ -23,4 +23,4 @@ Un alt obiectiv al aplicației este de a oferi o experiență intuitivă și pl�
 ![Diagrama UML a aplicației](poze/ClassDiagram.jpg)
 
 ## Diagrama UseCase
-![Diagrama UseCase](poze/UseCase.jpg)
+![Diagrama UseCase](poze/UseCase.png)
